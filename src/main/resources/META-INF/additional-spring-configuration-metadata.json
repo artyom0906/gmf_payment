@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "gis.url",
+      "type": "java.lang.String",
+      "description": "url for GIS service."
+    },
+    {
+      "name": "gis.token",
+      "type": "java.lang.String",
+      "description": "Token for GIS service."
+    },
+    {
+      "name": "springdoc.version",
+      "type": "java.lang.String",
+      "description": "Version of api."
+    }
+  ]
+}
